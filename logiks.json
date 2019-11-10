@@ -1,0 +1,28 @@
+{
+    "name": "Logiks eStore",
+    "version": "1.0",
+    "status": "stable",
+    "type": "module",
+    "package":"org.openlogiks.estore",
+    "description": "Logiks Package Installer installing new plugins, packages, etc",
+    "keywords": "logiks,modules,eStore",
+    "license": "MIT",
+    "marketid": "",
+    "homepage": "https://github.com/LogiksPlugins/estore.git",
+    "bugs": "https://support.smartinfologiks.com",
+    "private": true,
+    "dependencies": {
+        "core": "+4.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/LogiksPlugins/estore.git"
+    },
+    "authors": [
+        {
+            "name": "OpenLogiks Team",
+            "email": "admin@openlogiks.org",
+            "authorid":"bismay"
+        }
+    ]
+}
